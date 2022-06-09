@@ -2,7 +2,14 @@
 
 <h1 align="left">👋 Hi, I'm Lucas Reis</h1>
 
-- 🔥 Senior Frontend and Backend Developer focused on build a great code & even greater team 
+<a href="https://www.linkedin.com/in/lucascmreis" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LucasReis-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.behance.net/lucascmreis/projects" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LucasReis-05122A?style=flat&logo=behance" alt="behance"/>
+</a>
+
+- 🔥 Senior Frontend and Backend Developer focused on build valuable software & greater teams
 
 - 👨‍💻 I’m currently working at [Americanas SA](https://ri.americanas.com/)
 
@@ -12,13 +19,14 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, IoT**
 
-- ⚡ Fun fact:  **Beer Sommelier & Gastronomy lover** 👨🏽‍🍳
+- ⚡ Fun fact:  **Beer Sommelier & Gastronomy curious** 👨🏽‍🍳
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -27,22 +35,21 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=raspberrypi)&nbsp;
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucascmreis&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucascmreis&show_icons=true&theme=vision-friendly-dark" alt="Lucas's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascmreis&layout=compact&theme=vision-friendly-dark" alt="lucas most languages"/>
 </p>
 
 <br><br>
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
 
 
 <!--
