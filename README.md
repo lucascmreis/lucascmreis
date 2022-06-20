@@ -15,7 +15,7 @@
 
 - 🔭 I'm from 🇧🇷 Sao Paulo, Brazil. Currently living in 🇩🇪 Mannheim, Germany
 
-- 🧪 10+ years experience working with Telecommunication and Software for the Aerospace & Defense sectors 
+- 🧪 10+ years experience working with Telecommunication and Software development for the Aerospace & Defense sectors 
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, IoT**
 
