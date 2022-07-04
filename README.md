@@ -11,7 +11,7 @@
 
 - 🔥 Senior Frontend and Backend Developer focused on build valuable software & greater teams
 
-- 👨‍💻 I’m currently working at [Americanas SA](https://ri.americanas.com/)
+- 👨‍💻 I’m currently working at [Osapiens](https://www.osapiens.com/)
 
 - 🔭 I'm from 🇧🇷 Sao Paulo, Brazil. Currently living in 🇩🇪 Mannheim, Germany
 
