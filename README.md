@@ -9,13 +9,11 @@
   <img align="center" src="https://img.shields.io/badge/-LucasReis-05122A?style=flat&logo=behance" alt="behance"/>
 </a>
 
-- 🔥 Senior Frontend and Backend Developer focused on build valuable software & greater teams
-
-- 👨‍💻 I’m currently working at [Osapiens](https://www.osapiens.com/)
+- 🔥 Senior Software Engineer focused on build valuable software & greater teams
 
 - 🔭 I'm from 🇧🇷 Sao Paulo, Brazil. Currently living in 🇩🇪 Mannheim, Germany
 
-- 🧪 10+ years experience working with Telecommunication and Software development for the Aerospace & Defense sectors 
+- 🧪 13+ years experience working with Telecommunication and Software development for the Aerospace & Defense sectors 
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, IoT**
 
@@ -41,7 +39,7 @@
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=raspberrypi)&nbsp;
 
 <br><br>
-
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -50,7 +48,7 @@
 </p>
 
 <br><br>
-
+-->
 
 <!--
 **lucascmreis/lucascmreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
