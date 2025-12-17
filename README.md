@@ -9,15 +9,11 @@
   <img align="center" src="https://img.shields.io/badge/-LucasReis-05122A?style=flat&logo=behance" alt="behance"/>
 </a>
 
-- 🔥 Senior Software Engineer focused on build valuable software & greater teams
+- 🚀 Senior Software Engineer focused on build valuable software & greater teams
 
-- 🔭 I'm from 🇧🇷 Sao Paulo, Brazil. Currently living in 🇩🇪 Mannheim, Germany
+- 🔭 I'm from 🇧🇷 Brazil. Currently living in 🇩🇪 Germany
 
-- 🧪 13+ years experience working with Telecommunication and Software development for the Aerospace & Defense sectors 
-
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, IoT**
-
-- ⚡ Fun fact:  **Beer Sommelier & Gastronomy curious** 👨🏽‍🍳
+- 🧪 13+ years experience working with Telecommunication and Software development mainly in the Aerospace & Defense Industry
 
 <br><br>
 
@@ -32,7 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
